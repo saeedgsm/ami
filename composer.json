@@ -1,5 +1,5 @@
 {
-    "name": "enniel/ami",
+    "name": "saeed/ami",
     "type": "library",
     "description": "Provide asterisk ami to laravel",
     "keywords": [
@@ -7,7 +7,7 @@
         "Ami",
         "Asterisk"
     ],
-    "homepage": "https://github.com/Enniel/Ami",
+    "homepage": "https://github.com/saeedgsm/ami",
     "license": "MIT",
     "authors": [
         {
@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "php": ">=5.6.0",
+        "php": ">=8.0.*",
         "ext-mbstring": "*",
         "illuminate/support": "~5.1.*",
         "illuminate/console": "~5.1",
